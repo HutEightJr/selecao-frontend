@@ -82,6 +82,7 @@ Desejamos boa sorte a todos e que possam aproveitar ao máximo todo o aprendizad
 
 ### Links úteis:
 - [Documentação do React](https://pt-br.reactjs.org/docs/getting-started.html)
+- [Rocketseat Starter](https://app.rocketseat.com.br/starter)
 - [Curso completo de React com Redux](https://youtu.be/OxIDLw0M-m0)
 - [Um guia para iniciantes no React.js](https://medium.com/rocketseat/um-guia-para-iniciantes-no-react-js-80e1ac357649)
 - [Começando com o React por William Justen](https://willianjusten.com.br/comecando-com-react/)
