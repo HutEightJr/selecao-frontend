@@ -73,6 +73,8 @@ Na última semana iremos revisar os conceitos abordados e tirar quaisquer dúvid
 
 > **Tarefa da semana:** finalização das telas e do projeto.
 
+> **Tarefa opcional:** tornar as telas responsivas utilizando [media queries](https://developer.mozilla.org/pt-BR/docs/Web/Guide/CSS/CSS_Media_queries).
+
 
 # Considerações finais
 
