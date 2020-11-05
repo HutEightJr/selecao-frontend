@@ -26,6 +26,8 @@ O projeto consiste no **desenvolvimento de um dashboard**, simulando uma nova pr
 
 Todos os dados da aplicação deverão ser requisitados da *simulação de API* desenvolvida para esse desafio. Por meio dela, você conseguirá fazer as requisições necessárias via [axios](https://github.com/axios/axios) ou [fetch api](https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API) para alimentar suas telas de forma dinâmica, simulando de forma prática como funciona a integração do frontend com o backend.
 
+[Clique aqui](https://run.mocky.io/v3/f4284bf9-7340-412c-89aa-d46bd9be8de9) para acessar a API
+
 ### Outras considerações
 
 1. O projeto deverá ser desenvolvido em um repositório na sua conta do GitHub;
