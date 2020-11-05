@@ -1,4 +1,4 @@
-# Tarefa para o processo seletivo de desenvolvedores frontend
+# Processo seletivo de desenvolvedores frontend
 
 *Olá Trainee, tudo bem?*
 
