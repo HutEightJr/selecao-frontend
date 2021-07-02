@@ -42,7 +42,7 @@ Nessa semana, você irá aprender:
 
 1. Conceitos básicos sobre desenvolvimento web: abordagem tradicional e abordagem SPA;
 2. Conceitos básicos sobre HTML e CSS: estruturas básicas, Flexbox, CSS Grid e Media Queries;
-3. Conceitos básicos sobre JavaScript ES6;
+3. Conceitos básicos sobre JavaScript ES6: manipulação da DOM e manipulação de arrays;
 4. Inicialização do projeto: instalação do Node.js e inicialização com o create-react-app.
 
 > **Tarefa da semana:** inicializar o projeto em seu repositório no GitHub.
