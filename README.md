@@ -22,7 +22,7 @@ O projeto consiste no **desenvolvimento de um dashboard**, simulando uma nova pr
    
   ![Tela do Figma](https://i.imgur.com/OQcTtKc.png)
 
-# API
+## API
 
 Todos os dados da aplicação deverão ser requisitados da *simulação de API* desenvolvida para esse desafio. Por meio dela, você conseguirá fazer as requisições necessárias via [axios](https://github.com/axios/axios) ou [fetch api](https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API) para alimentar suas telas de forma dinâmica, simulando de forma prática como funciona a integração do frontend com o backend.
 
@@ -42,7 +42,7 @@ Todos os dados da aplicação deverão ser requisitados da *simulação de API* 
 
   Retorna informações sobre um curso em específico
 
-### Outras considerações
+## Outras considerações
 
 1. O projeto deverá ser desenvolvido em um repositório na sua conta do GitHub;
 2. Todo treinamento será realizado ao longo de quatro semanas, em um cronograma assíncrono;
@@ -67,7 +67,7 @@ Nessa semana, você irá aprender:
 
 1. Arquitetura de um projeto em React;
 2. Criação de componentes com hooks e renderização com JSX;
-3. Utilização de props, state e manipulação de eventos;
+3. Conceitos básicos de props, useState e useEffect;
 
 > **Tarefa da semana:** desenvolvimento da primeira tela no React.
 
@@ -76,7 +76,7 @@ Nessa semana, você irá aprender:
 Nessa semana, você irá aprender:
 
 1. Alimentação da interface por meio de requisições na API;
-2. Renderização condicional;
+2. Utilização do React Router;
 3. Outros conceitos em React.
 
 > **Tarefa da semana:** realizar as requisições na API e iniciar o desenvolvimento das outras telas.
