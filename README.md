@@ -1,4 +1,4 @@
-# Processo seletivo de desenvolvedores frontend
+# Processo seletivo para desenvolvedores frontend
 
 *Olá Trainee, tudo bem?*
 
@@ -22,11 +22,25 @@ O projeto consiste no **desenvolvimento de um dashboard**, simulando uma nova pr
    
   ![Tela do Figma](https://i.imgur.com/OQcTtKc.png)
 
-### API
+# API
 
 Todos os dados da aplicação deverão ser requisitados da *simulação de API* desenvolvida para esse desafio. Por meio dela, você conseguirá fazer as requisições necessárias via [axios](https://github.com/axios/axios) ou [fetch api](https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API) para alimentar suas telas de forma dinâmica, simulando de forma prática como funciona a integração do frontend com o backend.
 
-[Clique aqui](https://run.mocky.io/v3/f4284bf9-7340-412c-89aa-d46bd9be8de9) para acessar a API.
+  ### GET /user
+
+  Retorna informações sobre o usuário, resumo e próximas atividades
+
+  [Acessar rota](http://demo6530674.mockable.io/user)
+
+  ### GET /courses
+
+  Retorna uma lista dos cursos matriculados do usuário
+
+  [Acessar rota](http://demo6530674.mockable.io/courses)
+
+  ### GET /courses/{id}
+
+  Retorna informações sobre um curso em específico
 
 ### Outras considerações
 
