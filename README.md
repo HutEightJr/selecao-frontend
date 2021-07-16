@@ -30,13 +30,13 @@ Todos os dados da aplicação deverão ser requisitados da *simulação de API* 
 
   Retorna informações sobre o usuário, resumo e próximas atividades
 
-  [Acessar rota](http://demo6530674.mockable.io/user)
+  [Acessar rota](https://processo-seletivo-hut8.herokuapp.com/user)
 
   ### GET /courses
 
   Retorna uma lista dos cursos matriculados do usuário
 
-  [Acessar rota](http://demo6530674.mockable.io/courses)
+  [Acessar rota](https://processo-seletivo-hut8.herokuapp.com/courses)
 
   ### GET /courses/{id}
 
